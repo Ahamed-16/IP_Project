@@ -34,13 +34,13 @@ st.markdown("""
 data = [
     {"Name": "Rasheed Ahamed", "English": 69, "Informatics Practices": 81, "Accountancy": 65, "Business Studies": 66, "Economics": 67, "Physical Education": 78, "Islamic Education": 83},
     {"Name": "Aisha Khan", "English": 48, "Informatics Practices": 52, "Accountancy": 89, "Business Studies": 37, "Economics": 51, "Physical Education": 63, "Islamic Education": 92},
-    {"Name": "Liam O'Connor", "English": 61, "Informatics Practices": 92, "Accountancy": 73, "Business Studies": 95, "Economics": 90, "Physical Education": 50, "Islamic Education": 71},
-    {"Name": "Sofia Martinez", "English": 75, "Informatics Practices": 81, "Accountancy": 37, "Business Studies": 76, "Economics": 92, "Physical Education": 91, "Islamic Education": 38},
-    {"Name": "Chen Wei", "English": 71, "Informatics Practices": 83, "Accountancy": 68, "Business Studies": 89, "Economics": 82, "Physical Education": 60, "Islamic Education": 70},
-    {"Name": "Amara Okafor", "English": 95, "Informatics Practices": 45, "Accountancy": 48, "Business Studies": 56, "Economics": 87, "Physical Education": 47, "Islamic Education": 80},
+    {"Name": "Liam O'Connor", "English": 61, "Informatics Practices": 92, "Accountancy": 73, "Business Studies": 95, "Economics": 90, "Physical Education": 50, "Islamic Education": 0},
+    {"Name": "Sofia Martinez", "English": 75, "Informatics Practices": 81, "Accountancy": 37, "Business Studies": 76, "Economics": 92, "Physical Education": 91, "Islamic Education": 0},
+    {"Name": "Chen Wei", "English": 71, "Informatics Practices": 83, "Accountancy": 68, "Business Studies": 89, "Economics": 82, "Physical Education": 60, "Islamic Education": 0},
+    {"Name": "Amara Okafor", "English": 95, "Informatics Practices": 45, "Accountancy": 48, "Business Studies": 56, "Economics": 87, "Physical Education": 47, "Islamic Education": 0},
     {"Name": "Yuki Tanaka", "English": 38, "Informatics Practices": 23, "Accountancy": 18, "Business Studies": 25, "Economics": 41, "Physical Education": 8, "Islamic Education": 0},
-    {"Name": "Lucas Silva", "English": 82, "Informatics Practices": 49, "Accountancy": 87, "Business Studies": 81, "Economics": 89, "Physical Education": 67, "Islamic Education": 54},
-    {"Name": "Elena Petrova", "English": 38, "Informatics Practices": 70, "Accountancy": 56, "Business Studies": 54, "Economics": 38, "Physical Education": 77, "Islamic Education": 82},
+    {"Name": "Lucas Silva", "English": 82, "Informatics Practices": 49, "Accountancy": 87, "Business Studies": 81, "Economics": 89, "Physical Education": 67, "Islamic Education": 0},
+    {"Name": "Elena Petrova", "English": 38, "Informatics Practices": 70, "Accountancy": 56, "Business Studies": 54, "Economics": 38, "Physical Education": 77, "Islamic Education": 0},
     {"Name": "Omar Al-Fayed", "English": 78, "Informatics Practices": 91, "Accountancy": 62, "Business Studies": 83, "Economics": 78, "Physical Education": 86, "Islamic Education": 53}
 ]
 
