@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. **Prerequisites**:Ensure you have Python 3.7 or higher installed on your system.
 
-1. **Clone the Repository (or save the file)**:If you have the `student_performance_streamlit_updated.py` file, save it to your desired project directory.
+1. **Clone the Repository (or save the file)**:If you have the `student_performance.py` file, save it to your desired project directory.
 
 1. **Install Dependencies**:Open your terminal or command prompt, navigate to your project directory, and install the required Python libraries using pip:
 
@@ -44,12 +44,12 @@ To run this project locally, follow these steps:
 
 Once the dependencies are installed, you can run the Streamlit application:
 
-1. **Navigate to the Project Directory**:Open your terminal or command prompt and change to the directory where you saved `student_performance_streamlit_updated.py`.
+1. **Navigate to the Project Directory**:Open your terminal or command prompt and change to the directory where you saved `student_performance.py`.
 
 1. **Execute the Streamlit Command**:Run the application using the Streamlit CLI:
 
    ```bash
-   streamlit run student_performance_streamlit_updated.py
+   streamlit run student_performance.py
    ```
 
 1. **Access the Application**:Streamlit will automatically open a new tab in your default web browser, displaying the application. If it doesn't, you can manually navigate to `http://localhost:8501` (or the address provided in your terminal ).

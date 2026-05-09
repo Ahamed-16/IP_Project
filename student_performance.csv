@@ -1,11 +1,11 @@
-Name,English,Informatics Practices,Accountancy,Business Studies,Economics,Physical Education,Islamic Education,Average Score,Status
-Rasheed Ahamed,69,81,65,66,67,78,83,72.71,Passing
-Aisha Khan,48,52,89,37,51,63,92,61.71,Needs Improvement
-Liam O'Connor,61,92,73,95,90,50,0,65.86,Needs Improvement
-Sofia Martinez,75,81,37,76,92,91,0,64.57,Needs Improvement
-Chen Wei,71,83,68,89,82,60,0,64.71,Needs Improvement
-Amara Okafor,95,45,48,56,87,47,0,54.0,Needs Improvement
-Yuki Tanaka,59,93,78,85,56,73,0,63.43,Needs Improvement
-Lucas Silva,82,49,87,81,89,67,0,65.0,Needs Improvement
-Elena Petrova,38,70,56,54,38,77,0,47.57,Needs Improvement
-Omar Al-Fayed,78,91,62,83,78,86,53,75.86,Passing
+Name,English,Informatics Practices,Accountancy,Business Studies,Economics,Physical Education,Islamic Education,Average Score,Grade,Status
+Rasheed Ahamed,69,81,65,66,67,78,83,72.71,Pass,Passing
+Aisha Khan,48,52,89,37,51,63,92,61.71,Needs Improvement,Failing
+Liam O'Connor,61,92,73,95,90,50,71,76.00,Pass,Passing
+Sofia Martinez,75,81,37,76,92,91,38,70.00,Needs Improvement,Failing
+Chen Wei,71,83,68,89,82,60,70,74.71,Pass,Passing
+Amara Okafor,95,45,48,56,87,47,80,65.43,Needs Improvement,Failing
+Yuki Tanaka,38,23,18,25,41,8,0,21.86,Fail,Failing
+Lucas Silva,82,49,87,81,89,67,54,72.71,Pass,Passing
+Elena Petrova,38,70,56,54,38,77,82,59.29,Needs Improvement,Failing
+Omar Al-Fayed,78,91,62,83,78,86,53,75.86,Pass,Passing
