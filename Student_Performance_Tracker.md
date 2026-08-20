@@ -52,7 +52,7 @@ Once the dependencies are installed, you can run the Streamlit application:
    streamlit run student_performance.py
    ```
 
-1. **Access the Application**:Streamlit will automatically open a new tab in your default web browser, displaying the application. If it doesn't, you can manually navigate to `http://localhost:8501` (or the address provided in your terminal ).
+1. **Access the Application**:Streamlpit will automatically open a new tab in your default web browser, displaying the application. If it doesn't, you can manually navigate to `http://localhost:8501` (or the address provided in your terminal ).
 
 ## Data Structure and Logic
 

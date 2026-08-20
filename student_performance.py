@@ -63,10 +63,15 @@ df["Grade"] = df["Average Score"].apply(get_grade)
 
 # --- Passing Logic ---
 def check_status(row):
-    for subject in subjects:
-        if row[subject] < 40:
-            return "Failing"
-    return "Passing"
+    avg = row["Average Score"]
+    grade = row["Grade"]
+
+    if grade == "Fail":
+        return "Failing"
+    elif avg >= 70:
+        return "Passing"
+    else:
+        return "Needs Attention"
 
 df["Status"] = df.apply(check_status, axis=1)
 
